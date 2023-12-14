@@ -94,3 +94,9 @@ Além disso, podemos empregar testes A/B para verificar a preferência de interf
 Após a conclusão dos testes, é fundamental realizar uma análise criteriosa dos resultados obtidos. Devemos identificar padrões, tendências e sugestões de melhorias propostas pelos participantes. Essas informações serão valiosas para refinarmos a nossa plataforma e torná-la mais intuitiva, eficiente e alinhada às necessidades dos usuários.
 
 Realizar testes com pessoas que se encaixam com a nossa persona e utilizar abordagens como testes A/B são estratégias essenciais para aprimorar a experiência do usuário em nosso projeto de criação de rotinas esportivas. Ao recolher feedbacks autênticos, podemos identificar pontos fortes e oportunidades de melhoria, garantindo que nossa plataforma atenda de forma eficaz às necessidades e expectativas dos usuários. Com base nesses testes, poderemos oferecer uma solução cada vez mais eficiente e personalizada, auxiliando as pessoas na criação de rotinas saudáveis e produtivas em suas práticas esportivas.
+
+
+
+## Ver mais
+
+Para ver nosso projeto de forma mais detalhada abra o arquivo `udi.pdf`
